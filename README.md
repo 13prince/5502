@@ -1,5 +1,7 @@
 # 5502
 # Tutorials Ninja Testing Project
+![image](https://github.com/user-attachments/assets/34fa5a7a-f515-4693-b74f-2a99e42e6e88)
+
 
 This project is dedicated to the end-to-end testing of the [Tutorials Ninja Demo Website](https://tutorialsninja.com/demo/). The project showcases a comprehensive approach to manual and automated testing, ensuring all functionalities and features of the website are thoroughly verified.
 
